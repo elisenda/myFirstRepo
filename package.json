@@ -1,0 +1,14 @@
+{
+  "name": "myFirstRepo",
+  "version": "0.0.1",
+  "description": "myFirstRepo",
+  "main": "myFirstRepo.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
